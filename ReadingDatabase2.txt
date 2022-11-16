@@ -1,0 +1,225 @@
+---Reading database---
+Urban Burger
+1
+French Fries
+with garlic and parmesan
+1
+$2.99
+Appetizer
+Chicken Burger
+Juicy grilled chicken patty with tomato mayo and lettuce
+2
+$5.50
+Entree
+Chocolate Cake
+fresh baked and served with ice cream
+3
+$3.99
+Dessert
+Sirloin Burger
+Made with grade A beef
+4
+$7.99
+Entree
+Root Beer
+16oz of refreshing goodness
+5
+$1.99
+Beverage
+Iced Tea
+with Lemon
+6
+$.99
+Beverage
+Grilled Cheese Sandwich
+On texas toast with American Cheese
+7
+$3.49
+Entree
+Veggie Burger
+Made with freshest of ingredients and home grown spices
+8
+$5.99
+Entree
+--------------------
+Super Stir Fry
+2
+Chicken Stir Fry
+with your choice of noodles vegetables and sauces
+9
+$7.99
+Entree
+Peking Duck
+ a famous duck dish from Beijing[1] that has been prepared since the imperial era. The meat is prized for its thin, crisp skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook
+10
+$25
+Entree
+Spicy Tuna Roll
+
+11
+
+Entree
+Nepali Momo 
+
+12
+
+Appetizer
+Beef Noodle Soup
+
+13
+Entree
+Appetizer
+Ramen
+
+14
+
+Entree
+--------------------
+Panda Garden
+3
+Pho
+a Vietnamese noodle soup consisting of broth, linguine-shaped rice noodles called banh pho, a few herbs, and meat.
+15
+
+Entree
+Chinese Dumplings
+a common Chinese dumpling which generally consists of minced meat and finely chopped vegetables wrapped into a piece of dough skin. The skin can be either thin and elastic or thicker.
+16
+
+Entree
+Gyoza
+The most prominent differences between Japanese-style gyoza and Chinese-style jiaozi are the rich garlic flavor, which is less noticeable in the Chinese version, the light seasoning of Japanese gyoza with salt and soy sauce, and the fact that gyoza wrappers are much thinner
+17
+
+Appetizer
+Stinky Tofu
+Taiwanese dish, deep fried fermented tofu served with pickled cabbage.
+18
+
+Appetizer
+Panda Poop Ice Cream
+The name says is all!
+40
+4.95
+Dessert
+--------------------
+Thyme for That Vegetarian Cuisine 
+4
+Tres Leches Cake
+Rich, luscious sponge cake soaked in sweet milk and topped with vanilla bean whipped cream and strawberries.
+19
+
+Dessert
+Mushroom risotto
+Portabello mushrooms in a creamy risotto
+20
+
+Entree
+Honey Boba Shaved Snow
+Milk snow layered with honey boba, jasmine tea jelly, grass jelly, caramel, cream, and freshly made mochi
+21
+
+Dessert
+Cauliflower Manchurian
+Golden fried cauliflower florets in a midly spiced soya,garlic sauce cooked with fresh cilantro, celery, chilies,ginger & green onions
+22
+
+Entree
+Aloo Gobi Burrito
+Vegan goodness. Burrito filled with rice, garbanzo beans, curry sauce, potatoes (aloo), fried cauliflower (gobi) and chutney. Nom Nom
+23
+
+Entree
+--------------------
+Tony's Bistro 
+5
+Shellfish Tower
+
+24
+
+Appetizer
+Chicken and Rice
+
+25
+
+Entree
+Mom's Spaghetti
+
+26
+
+Entree
+Choc Full O' Mint (Smitten's Fresh Mint Chip ice cream)
+
+27
+
+Dessert
+Tonkatsu Ramen
+Noodles in a delicious pork-based broth with a soft-boiled egg
+28
+
+Entree
+--------------------
+Andala's
+6
+Lamb Curry
+Slow cook that thang in a pool of tomatoes, onions and alllll those tasty Indian spices. Mmmm.
+29
+
+Entree
+Chicken Marsala
+Chicken cooked in Marsala wine sauce with mushrooms
+30
+
+Entree
+Potstickers
+Delicious chicken and veggies encapsulated in fried dough.
+31
+
+Appetizer
+Nigiri SamplerMaguro, Sake, Hamachi, Unagi, Uni, TORO!
+
+32
+
+Entree
+--------------------
+Auntie Ann's Diner 
+7
+Chicken Fried Steak
+Fresh battered sirloin steak fried and smothered with cream gravy
+33
+$8.99
+Entree
+Boysenberry Sorbet
+An unsettlingly huge amount of ripe berries turned into frozen (and seedless) awesomeness
+34
+
+Dessert
+Broiled salmon
+Salmon fillet marinated with fresh herbs and broiled hot & fast
+35
+
+Entree
+Morels on toast (seasonal)
+Wild morel mushrooms fried in butter, served on herbed toast slices
+36
+
+Appetizer
+Tandoori Chicken
+Chicken marinated in yoghurt and seasoned with a spicy mix(chilli, tamarind among others) and slow cooked in a cylindrical clay or metal oven which gets its heat from burning charcoal.
+37
+
+Entree
+--------------------
+Cocina Y Amor 
+8
+Super Burrito Al Pastor
+Marinated Pork, Rice, Beans, Avocado, Cilantro, Salsa, Tortilla
+38
+
+Entree
+Cachapa
+Golden brown, corn-based venezuelan pancake; usually stuffed with queso telita or queso de mano, and possibly lechon. 
+39
+
+Appetizer
+--------------------
